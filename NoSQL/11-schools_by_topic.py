@@ -1,4 +1,3 @@
-// what is true for you
 #!/usr/bin/env python3
 """11-schools_by_topic.py"""
 
